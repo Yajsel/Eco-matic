@@ -4,9 +4,12 @@
 
 ### Instalación, integración, mantenimiento, refacciones, cursos.
 
-#### Paneles solares
+Paneles solares
+
 Calentadores solares
+
 Autómatas
+
 Etc.
 
 
