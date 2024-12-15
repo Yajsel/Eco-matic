@@ -1,6 +1,6 @@
 # Prestación de servicios profesionales Eco-matic
 
-### Servicios de alta calidad y prpuestas de alto valor según la necesidad de cada cliente.
+### Servicios de alta calidad y propuestas de alto valor según la necesidad de cada cliente.
 
 ### Instalación, integración, mantenimiento, refacciones, cursos.
 
